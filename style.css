@@ -79,6 +79,7 @@ font-family: Verdana, sans-serif ;
     padding: 0 6px;
     float: left;
     width: 24.99999%;
+    margin-bottom: 20px;
 }
 
 
@@ -104,6 +105,26 @@ font-weight: bold;
     margin-top: 25px;
     border: 1px solid black;
 }
-
-
-
+.ali{
+    text-align: center;
+    margin-top: 15px;
+    background-color: lightgrey;
+    padding-top: 5px;
+  cursor: pointer;
+}
+.p{
+    margin-bottom: 8px;
+    display: inline-block;
+}
+#name{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+}
+.btn{
+    margin-top: 15px;
+    border: none;
+    padding: 10px;
+    background-color: #000000;
+    color: white;
+}
