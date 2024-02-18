@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.top{
+    background-color: #e4cdcd;
+    overflow: hidden;
+    padding: 20px;
+}
+.top a {
+        /* float: left; */
+        color: #000000;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    .aa{
+        float: right;
+    }
+    .bld{
+        font-weight: bold;
+    }
+.container{
+    
+}
+
+
+
+
+
+
+
