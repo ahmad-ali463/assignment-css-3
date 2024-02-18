@@ -3,10 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+font-family: Verdana, sans-serif ;    
+}
 .top{
     background-color: #e4cdcd;
     overflow: hidden;
     padding: 20px;
+    position: sticky;
 }
 .top a {
         /* float: left; */
@@ -22,12 +26,84 @@
         font-weight: bold;
     }
 .container{
-    
+    width: 70%;
+    margin: 0 auto;
+}
+.big{
+    background-image: url(assests/images/architect.jpg);
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+.br{
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+    }
+    .BBR{
+        background-color: #000000;
+        opacity: 0.5;
+        padding: 8px 8px;
+    }
+    .arc{
+        font-weight: lighter;
+    }
+.ss{
+    background-color: #000000;
+    color: white;
+    font-weight: lighter;
+}
+.response{
+    padding: 0 6px;
+    float: left;
+    width: 24.9999%;
+}
+.col{
+    margin-top: 30px;
+}
+.images{
+    width: 100%;
+    height: auto;
+   
+}
+.col1{
+    margin-top: 5px;
+}
+.s{
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.response2 {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
 }
 
 
+.gg{
+    margin-top: 25px;
+    border: 1px solid #ccc;
+}
 
-
+.dd{
+margin-bottom: 15px;
+font-weight: bold;
+}
+.sss{
+    padding: 5px;
+    font-weight: lighter;
+    font-size: 10px;
+}
+.ddd{
+    font-weight: lighter;
+    font-size: 15px;
+}
+.dddd{
+    margin-top: 25px;
+    border: 1px solid black;
+}
 
 
 
